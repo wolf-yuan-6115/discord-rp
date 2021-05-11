@@ -1,0 +1,25 @@
+{
+  "name": "discord-rp",
+  "version": "1.0.0",
+  "description": "A simple Discord rich presence maker",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"No test command\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolf-yuan-6115/discord-rp.git"
+  },
+  "keywords": [
+    "discord",
+    "rich",
+    "presence",
+    "desktop"
+  ],
+  "author": "Wolf yuan (wolfyuan@blackcatbot.tk)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wolf-yuan-6115/discord-rp/issues"
+  },
+  "homepage": "https://github.com/wolf-yuan-6115/discord-rp#readme"
+}
