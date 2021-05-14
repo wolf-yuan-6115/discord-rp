@@ -2,9 +2,10 @@
   "name": "discord-rp",
   "version": "1.0.0",
   "description": "A simple Discord rich presence maker",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"No test command\""
+    "test": "echo \"No test command\"",
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/wolf-yuan-6115/discord-rp/issues"
   },
-  "homepage": "https://github.com/wolf-yuan-6115/discord-rp#readme"
+  "homepage": "https://github.com/wolf-yuan-6115/discord-rp#readme",
+  "devDependencies": {
+    "electron": "^12.0.7",
+    "eslint": "^7.26.0"
+  },
+  "dependencies": {
+    "discord-rpc": "^3.2.0"
+  }
 }
